@@ -1,4 +1,4 @@
-# Awesome Software Defined Radio (SDR) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Software Defined Radio (SDR)
 
 > A curated, practitioner-level repository covering Software Defined Radio, amateur radio, satellite tracking, RF security research, and signal intelligence. Built for engineers, security researchers, and RF enthusiasts.
 
