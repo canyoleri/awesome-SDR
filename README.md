@@ -622,6 +622,8 @@ satdump live noaa_apt baseband --source rtlsdr --samplerate 1200000 --frequency 
   - **Getting started:** `rtl_adsb | dump1090 --interactive`
 - [readsb](https://github.com/wiedehopf/readsb) — High-performance dump1090 fork, better MLAT
 - [tar1090](https://github.com/wiedehopf/tar1090) — Modern web frontend for readsb/dump1090
+- [SkyTruth](https://github.com/professorgrandi/SkyTruth-Windows) — Windows desktop app comparing live dump1090 ADS-B data ("ghost") against OpenSky Network's public API ("mainstream") side-by-side on two live maps. Includes webcam sky view, session recording, and a one-click installer (online or fully offline from USB)
+  * **Getting started:** Download and run `install.bat` from the repo — sets up Python, dump1090, FFmpeg and all dependencies automatically
 
 **Open-Source Aggregators:**
 - [adsb.fi](https://adsb.fi/) — Community-driven, unfiltered
@@ -1258,4 +1260,4 @@ Shifts HF signals up by a fixed offset (typically 125 MHz) into RTL-SDR's usable
 
 ---
 
-*Contributions welcome. Open a PR with blog posts, project writeups, or corrections.*
+*Contributions welcome. Open a PR with blog posts, project writeups, or corrections.*  
